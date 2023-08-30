@@ -5,7 +5,7 @@
 - [E-forge](https://github.com/gkursi/e-klases-mods)
 #### I am currently contributing to:
 
-- [Lumina Client](https://github.com/LuminaDevelopement/LuminaClient)
+- [Lumina Client](https://github.com/LuminaDevelopment/LuminaClient)
 
 ### Languages I know:
 
