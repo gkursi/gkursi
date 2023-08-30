@@ -2,10 +2,10 @@
 
 #### I am currently working on:
 
-- [E-forge](https://github.com/gkursi/e-klases-mods)
+- [E-forge](https://github.com/gkursi/E-Forge)
 #### I am currently contributing to:
 
-- [Lumina Client](https://github.com/LuminaDevelopment/LuminaClient)
+- [Lumina Client](https://luminaclient.com)
 
 ### Languages I know:
 
