@@ -6,6 +6,15 @@
 #### I am currently contributing to:
 
 - [Lumina Client](https://github.com/LuminaDevelopement/LuminaClient)
+
+### Languages I know:
+
+- Java
+- Python
+- Some C/C++
+- Html, css, js
+- Node.js / Electron.js
+
 #### Contact me:
 - Discord (_qweru)
 #### GH Stats:
