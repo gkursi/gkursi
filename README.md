@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 #### I am currently working on:
-
-- [E-forge](https://github.com/gkursi/E-Forge)
+- [qweru.xyz](https://f.qweru.xyz)
+- ~~[E-forge](https://github.com/gkursi/E-Forge)~~
 #### I am currently contributing to:
 
-- [Lumina Client](https://luminaclient.com)
+- [Lumina Client](https://luminaclient.com) (dead)
 
 ### Languages I know:
 
