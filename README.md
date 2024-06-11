@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 #### I am currently working on:
+- Euphorix client (private minecraft client)
 - [qweru.xyz](https://f.qweru.xyz)
 - ~~[E-forge](https://github.com/gkursi/E-Forge)~~
 #### I am currently contributing to:
