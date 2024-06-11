@@ -14,7 +14,8 @@
 - Some C/C++
 - Html, css, js
 - Node.js / Electron.js
-- Learning Lua (Love2D)
+- Lua
+- Learning Rust
 
 #### Contact me:
 - Discord (_qweru)
