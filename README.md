@@ -14,7 +14,7 @@
 - Some C/C++
 - Html, css, js
 - Node.js / Electron.js
-- Lua
+- Some Lua
 - Learning Rust
 
 #### Contact me:
