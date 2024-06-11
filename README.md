@@ -14,7 +14,7 @@
 - Python
 - Some C/C++
 - Html, css, js
-- Node.js / Electron.js
+- Node.js
 - Some Lua
 - Learning Rust
 
