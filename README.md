@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 #### I am currently working on:
-- Euphorix client (private minecraft client)
+- Pulse client (minecraft client)
 - [qweru.xyz](https://qweru.xyz)
-- ~~[E-forge](https://github.com/gkursi/E-Forge)~~
 #### I am currently contributing to:
 
 - [Lumina Client](https://luminaclient.com) (dead)
@@ -20,6 +19,7 @@
 
 #### Contact me:
 - Discord (_qweru)
+- [e.z.bio/qw](https://e-z.bio/qw)
 #### GH Stats:
   [![Qweru's GitHub stats](https://github-readme-stats.vercel.app/api?username=gkursi&show_icons=true&theme=radical&show=prs_merged)](https://github.com/anuraghazra/github-readme-stats)<br>
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkursi&theme=radical)
