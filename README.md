@@ -2,7 +2,6 @@
 
 #### I am currently working on:
 - Pulse client (minecraft client)
-- [qweru.xyz](https://qweru.xyz)
 #### I am currently contributing to:
 
 - [Lumina Client](https://luminaclient.com) (dead)
