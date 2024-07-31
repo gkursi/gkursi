@@ -18,7 +18,7 @@
 - Learning Rust
 
 #### Contact me:
-- Discord (_qweru)
+- Discord (\_qweru\_)
 - [e.z.bio/qw](https://e-z.bio/qw)
 #### GH Stats:
   [![Qweru's GitHub stats](https://github-readme-stats.vercel.app/api?username=gkursi&show_icons=true&theme=radical&show=prs_merged)](https://github.com/anuraghazra/github-readme-stats)<br>
