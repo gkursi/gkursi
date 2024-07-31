@@ -10,7 +10,7 @@
 
 - Java
 - Python
-- Some C/C++
+- C/C++
 - Html, css, js
 - Node.js
 - Some Lua
