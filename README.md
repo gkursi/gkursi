@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 #### I am currently working on:
-- Pulse client (minecraft client)
-- [Mineflayer Bookshelf](https://github.com/gkursi/mineflayer-bookshelf/) (a multiple instance-focused wrapper for mineflayer)
+- [Atlas](https://github.com/gkursi/atlas)
+- Pulse client
+- [Mineflayer Bookshelf](https://github.com/gkursi/mineflayer-bookshelf/)
 #### I am currently contributing to:
-
 - ~~[Lumina Client](https://luminaclient.com)~~
 
 ### Languages I know:
