@@ -1,11 +1,10 @@
 ### Hi there 👋
 
 #### I am currently working on:
-- [Atlas](https://github.com/gkursi/atlas)
-- Pulse client
+- [Pulse client](https://github.com/gkursi/Pulse-Client)
 - [Mineflayer Bookshelf](https://github.com/gkursi/mineflayer-bookshelf/)
 #### I am currently contributing to:
-- ~~[Lumina Client](https://luminaclient.com)~~
+- [Lumina Client](https://luminaclient.com)
 
 ### Languages I know:
 
