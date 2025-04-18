@@ -6,8 +6,9 @@
 ### Languages I know well
 - Java
 - Typescript
-### Languages I can use
+### Languages I can use (ranked in proficiency) 
 - Html, css, js
+- Python
 - C/C++
 - Lua
 - Rust
