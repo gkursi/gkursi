@@ -1,17 +1,16 @@
 ## Hi there 👋
 
-### Projects
-- [Neverdies.me](https://neverdies.me)
-
+### About me
+I'm a 15 year old developer living in Latvia.
 ### Languages I know well
 - Java
 - Typescript
 ### Languages I can use (ranked in proficiency) 
-- Html, css, js
 - Python
-- C/C++
-- Lua
+- Html, css, js
+- C++
 - Rust
+- Lua
 
 ### Contact me:
 - Discord (\_qweru\_)
