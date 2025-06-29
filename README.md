@@ -11,7 +11,8 @@ I'm a 15 year old developer living in Latvia.
 - C++
 - Rust
 - Lua
-
+### Projects
+- [Opium Client](https://discord.gg/CYvvy2ND5x) - Minecraft hack client for anarchy servers
 ### Contact me:
 - Discord (\_qweru\_)
 - Email (itsqweru@proton.me)
