@@ -4,11 +4,12 @@
 I'm a 15 year old developer living in Latvia.
 ### Languages I know well
 - Java
-- Typescript
+- Kotlin
 ### Languages I can use (ranked in proficiency) 
+- C++
+- Typescript
 - Python
 - Html, css, js
-- C++
 - Rust
 - Lua
 ### Projects
