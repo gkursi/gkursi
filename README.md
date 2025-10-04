@@ -13,6 +13,7 @@ I'm a 15 year old developer living in Latvia.
 - Rust
 - Lua
 ### Projects
+- [geoware](https://github.com/gkursi/geoware) - Minecraft 1.21.8 ghost client
 - [Opium Client](https://discord.gg/CYvvy2ND5x) - Minecraft hack client for anarchy servers
 - [Multirender](https://github.com/gkursi/multirender) - Very very WIP OpenGL render written in Kotlin
 ### Contact me:
